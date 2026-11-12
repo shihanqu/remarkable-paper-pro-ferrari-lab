@@ -1,0 +1,9 @@
+# Compiled binaries & local toolchains
+ferrari_lab/ferrari_lab
+.toolchains/
+*.o
+*.new
+
+# OS metadata
+.DS_Store
+._*
